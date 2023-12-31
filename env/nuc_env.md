@@ -14,4 +14,4 @@
 | http代理   | 8118     |          | 本地http代理                         |
 | plantuml   | 8089     | 38089    | plantuml server                      |
 | gitlab     | 8100     |          | gitlab http端口                      |
-| gitlab     | 8101     |          | gitlab ssh 端口  ｜                  |
+| gitlab     | 8101     |          | gitlab ssh 端口                      |
