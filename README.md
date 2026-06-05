@@ -11,3 +11,7 @@ A -> B: Just a demo
 @enduml
 
 ```
+- [linux](./linux)
+- [java](./java)
+- [python](./python)
+- [database](./database)
